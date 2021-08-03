@@ -37,6 +37,8 @@ int main(){
     cout<<"B : ";
     for(int i=0;i<=4;i++)
         cout<<b[i]<<"|";
+    cout<<""<<endl;
+    cout<<"Size of array : "<<a.size();
     
 
 }
