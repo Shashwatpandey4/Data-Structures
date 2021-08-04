@@ -1,9 +1,9 @@
 # Data Structures in C++
 
-1. Arrays 
-2. LinkedList 
-3. Stack 
-4. Queue
+-[x] Arrays 
+-[x] LinkedList 
+-[x] Stack 
+-[ ] Queue
 5. Binary Tree
 6. Binary Search Tree
 7. Binary Indexed Tree 
